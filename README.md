@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/chekka-yogeswari/">Yogeswari Chekka</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/chekka-yogeswari/">Chekka Yogeswari</a> 👋</h1>
 
 <div align="center">
-  <p><strong>Software Engineering Intern @ Google | B.Tech CS @ IIIT Hyderabad</strong></p>
+  <p><strong>B.Tech CS @ IIIT Hyderabad</strong></p>
   <img src="https://komarev.com/ghpvc/?username=yogeswari05&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
