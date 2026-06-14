@@ -11,10 +11,8 @@
 
 ## 🌟 About Me
 - 🎓 I'm a final-year Computer Science undergraduate at **IIIT Hyderabad**.
-- 💼 Currently working as a **Software Engineering Intern at Google**, modernizing device lifecycle management. Previously, a Google STEP Intern & App Developer at Hustlr.
 - 🚀 I'm passionate about **Full-Stack Development**, **Agentic AI**, and **Scalable Systems**.
 - 🌱 Currently exploring **Deep Learning, MLOps, and Large Language Models (LLMs)**.
-- 🏆 Elite Her Hackathon Finalist and contributor to open-source (GSSoC Extended '24).
 - 🎯 My goal is to solve complex problems and build meaningful, high-impact applications.
 
 <br>
