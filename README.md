@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/chekka-yogeswari/">Yogeswari Chekka</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/chekka-yogeswari/">Chekka Yogeswari</a> 👋</h1>
 
 <div align="center">
-  <p><strong>Software Engineering Intern @ Google | B.Tech CS @ IIIT Hyderabad</strong></p>
+  <p><strong>B.Tech CS @ IIIT Hyderabad</strong></p>
   <img src="https://komarev.com/ghpvc/?username=yogeswari05&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
@@ -11,10 +11,8 @@
 
 ## 🌟 About Me
 - 🎓 I'm a final-year Computer Science undergraduate at **IIIT Hyderabad**.
-- 💼 Currently working as a **Software Engineering Intern at Google**, modernizing device lifecycle management. Previously, a Google STEP Intern & App Developer at Hustlr.
 - 🚀 I'm passionate about **Full-Stack Development**, **Agentic AI**, and **Scalable Systems**.
 - 🌱 Currently exploring **Deep Learning, MLOps, and Large Language Models (LLMs)**.
-- 🏆 Elite Her Hackathon Finalist and contributor to open-source (GSSoC Extended '24).
 - 🎯 My goal is to solve complex problems and build meaningful, high-impact applications.
 
 <br>
@@ -60,12 +58,6 @@
   <img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentence_Transformers-FF9900?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-1E88E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-1E90FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feast-3F51B5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-4CAF50?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Tools
