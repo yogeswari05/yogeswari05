@@ -1,30 +1,73 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/chekka-yogeswari/">Yogeswari</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/chekka-yogeswari/">Yogeswari Chekka</a> 👋</h1>
 
-Welcome to my GitHub profile! Here's a little about me:
+<div align="center">
+  <p><strong>Software Engineering Intern @ Google | B.Tech CS @ IIIT Hyderabad</strong></p>
+  <img src="https://komarev.com/ghpvc/?username=yogeswari05&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right" alt="Coding Illustration"> 
 
 ## 🌟 About Me
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+- 🎓 I'm a final-year Computer Science undergraduate at **IIIT Hyderabad**.
+- 💼 Currently working as a **Software Engineering Intern at Google**, modernizing device lifecycle management. Previously, a Google STEP Intern & App Developer at Hustlr.
+- 🚀 I'm passionate about **Full-Stack Development**, **Agentic AI**, and **Scalable Systems**.
+- 🌱 Currently exploring **Deep Learning, MLOps, and Large Language Models (LLMs)**.
+- 🏆 Elite Her Hackathon Finalist and contributor to open-source (GSSoC Extended '24).
+- 🎯 My goal is to solve complex problems and build meaningful, high-impact applications.
 
-- 💻 I'm passionate about software development, solving complex problems, and building meaningful applications.
-- 🌱 I’m currently exploring DL.
-- 🌍 I enjoy collaborating with developers worldwide and contributing to open-source projects.
-- 🎯 Always striving to improve and learn something new every day.
+<br>
 
 ## 🛠️ Technologies & Tools
-- Programming Languages:  Python, C/C++, SQL, JavaScript, TypeScript, HTML/CSS
-- Frameworks: React, Next.js, Node.js, Express, Flask
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🌐 Web & Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 🤖 AI, Data & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<br>
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeswari05&show_icons=true&theme=radical)
 
-## 📫 Get in touch
-- Email: [Email](yedukondaluchekka@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chekka-yogeswari/)
-- Blog/Portfolio: [GitHub](https://github.com/yogeswari05)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeswari05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeswari05&layout=compact&theme=radical"/>
+</div>
 
-## 🤝 Let's Collaborate
-I'm open to collaborating on exciting projects, so feel free to reach out if you have something in mind!
+<br>
+
+## 📫 Let's Connect!
+<p align="left">
+  <a href="mailto:chekka.yogeswari@students.iiit.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/chekka-yogeswari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
-
-⭐️ Don't forget to star some of my repositories if you find them useful!
+⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!*
