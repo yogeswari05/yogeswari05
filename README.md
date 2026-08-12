@@ -72,15 +72,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeswari05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeswari05&layout=compact&theme=radical"/>
-</div>
-
-<br>
-
 ## 📫 Let's Connect!
 <p align="left">
   <a href="mailto:chekka.yogeswari@students.iiit.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
