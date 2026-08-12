@@ -11,8 +11,7 @@
 
 ## 🌟 About Me
 - 🎓 I'm a final-year Computer Science undergraduate at **IIIT Hyderabad**.
-- 🚀 I'm passionate about **Full-Stack Development**, **Agentic AI**, and **Scalable Systems**.
-- 🌱 Currently exploring **Deep Learning, MLOps, and Large Language Models (LLMs)**.
+- 🚀 I'm passionate about **Full-Stack Development** and **Scalable Systems**.
 - 🎯 My goal is to solve complex problems and build meaningful, high-impact applications.
 
 <br>
